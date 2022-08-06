@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PatikaHomework4.Data\PatikaHomework4.Data.csproj" />
+    <ProjectReference Include="..\PatikaHomework4.Dto\PatikaHomework4.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

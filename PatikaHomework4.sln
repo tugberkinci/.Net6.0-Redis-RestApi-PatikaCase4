@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaHomework4", "PatikaHomework4\PatikaHomework4.csproj", "{2F828603-B4DF-4245-80A6-BFDDFAEC6F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaHomework4.Data", "PatikaHomework4.Data\PatikaHomework4.Data.csproj", "{4C6F2765-DE27-4790-977C-E75BFB9E0EB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaHomework4.Dto", "PatikaHomework4.Dto\PatikaHomework4.Dto.csproj", "{E2EE1610-6764-41A7-9E4B-4736080877FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaHomework4.Service", "PatikaHomework4.Service\PatikaHomework4.Service.csproj", "{268BD1E8-2392-49B8-AE13-1A7A12242F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F828603-B4DF-4245-80A6-BFDDFAEC6F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F828603-B4DF-4245-80A6-BFDDFAEC6F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F828603-B4DF-4245-80A6-BFDDFAEC6F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F828603-B4DF-4245-80A6-BFDDFAEC6F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C6F2765-DE27-4790-977C-E75BFB9E0EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6F2765-DE27-4790-977C-E75BFB9E0EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6F2765-DE27-4790-977C-E75BFB9E0EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6F2765-DE27-4790-977C-E75BFB9E0EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EE1610-6764-41A7-9E4B-4736080877FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EE1610-6764-41A7-9E4B-4736080877FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EE1610-6764-41A7-9E4B-4736080877FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EE1610-6764-41A7-9E4B-4736080877FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{268BD1E8-2392-49B8-AE13-1A7A12242F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{268BD1E8-2392-49B8-AE13-1A7A12242F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{268BD1E8-2392-49B8-AE13-1A7A12242F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{268BD1E8-2392-49B8-AE13-1A7A12242F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B083D9F2-CE84-4184-9F44-13668F71DBB5}
+	EndGlobalSection
+EndGlobal

@@ -1,1 +1,1 @@
-# .Net6.0-Redis-RestApi-PatikaCase4
+# 4-hafta-odev-tugberkinci
